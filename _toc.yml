@@ -6,7 +6,6 @@ root: intro
 chapters:
 - file: markdown
 - file: notebooks
-- file: markdown-notebooks
 - file: resume
 - file: video
 - file: code
